@@ -1,0 +1,9 @@
+Chapter 2: Gits Decision > chapter2.txt
+echo Git, after much contemplation, decided to leave his home in Init to explore the vast world of Version Control. >> chapter2.txt
+
+
+git add chapter2.txt
+
+
+echo Chapter 2: Gits Decision
+Git, after much contemplation, decided to leave his home in Init to explore the vast world of Version Control.
